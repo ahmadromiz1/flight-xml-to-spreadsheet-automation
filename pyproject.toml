@@ -1,0 +1,16 @@
+[project]
+name = "flight-xml-to-spreadsheet-automation"
+version = "0.1.0"
+description = "Portfolio ETL demo for merging flight XML triplets into spreadsheet-ready output."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [
+  { name = "Repository Owner" }
+]
+keywords = ["etl", "xml", "spreadsheet", "python", "automation", "portfolio"]
+
+[tool.unittest]
+start-directory = "tests"
+pattern = "test*.py"
+

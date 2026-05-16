@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlightReport batchId="BATCH-20260514-002">
+  <Flight
+    flightId="FLT-2005"
+    flightNumber="AUR205"
+    originDate="2026-05-14"
+    origin="WIII"
+    destination="WARR" />
+  <WaypointSummary>
+    <HighestFlightLevel>340</HighestFlightLevel>
+    <PeakFuelOnBoardKg>9750</PeakFuelOnBoardKg>
+  </WaypointSummary>
+  <FuelNotes>
+    <ExtraFuelReason>ATC reroute reserve</ExtraFuelReason>
+  </FuelNotes>
+</FlightReport>

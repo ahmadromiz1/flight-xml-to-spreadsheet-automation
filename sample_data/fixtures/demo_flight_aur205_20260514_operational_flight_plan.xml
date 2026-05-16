@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OperationalFlightPlan batchId="BATCH-20260514-002">
+  <Flight
+    flightId="FLT-2005"
+    flightNumber="AUR205"
+    originDate="2026-05-14"
+    scheduledDepartureUtc="2026-05-14T05:40:00Z">
+    <Route origin="WIII" destination="WARR" alternate="WADD" />
+  </Flight>
+  <Aircraft registration="REG-BX7" type="B738" />
+  <Dispatch>
+    <DispatcherCode>DSP-02</DispatcherCode>
+    <PlannedFlightLevel>330</PlannedFlightLevel>
+    <PlannedDistanceNm>1060</PlannedDistanceNm>
+    <PlannedBlockFuelKg>9700</PlannedBlockFuelKg>
+    <PlannedTripFuelKg>6400</PlannedTripFuelKg>
+    <PlannedArrivalFuelKg>2100</PlannedArrivalFuelKg>
+  </Dispatch>
+</OperationalFlightPlan>

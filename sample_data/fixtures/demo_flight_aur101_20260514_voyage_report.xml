@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VoyageReport batchId="BATCH-20260514-001">
+  <Flight
+    flightId="FLT-1001"
+    flightNumber="AUR101"
+    originDate="2026-05-14"
+    origin="WAAA"
+    destination="WSSS" />
+  <ActualTimes
+    outUtc="2026-05-14T01:31:00Z"
+    offUtc="2026-05-14T01:46:00Z"
+    onUtc="2026-05-14T03:18:00Z"
+    inUtc="2026-05-14T03:24:00Z" />
+  <Fuel
+    actualDepartureFuelKg="8180"
+    actualArrivalFuelKg="2320"
+    upliftKg="600"
+    densityKgPerL="0.79" />
+  <Crew takeoffPilotCode="PILOT-11" />
+  <Operation landingType="Manual" flightType="Scheduled" />
+</VoyageReport>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OperationalFlightPlan batchId="BATCH-20260514-001">
+  <Flight
+    flightId="FLT-1001"
+    flightNumber="AUR101"
+    originDate="2026-05-14"
+    scheduledDepartureUtc="2026-05-14T01:25:00Z">
+    <Route origin="WAAA" destination="WSSS" alternate="WIDD" />
+  </Flight>
+  <Aircraft registration="REG-AX1" type="A320" />
+  <Dispatch>
+    <DispatcherCode>DSP-01</DispatcherCode>
+    <PlannedFlightLevel>350</PlannedFlightLevel>
+    <PlannedDistanceNm>915</PlannedDistanceNm>
+    <PlannedBlockFuelKg>8200</PlannedBlockFuelKg>
+    <PlannedTripFuelKg>5100</PlannedTripFuelKg>
+    <PlannedArrivalFuelKg>2400</PlannedArrivalFuelKg>
+  </Dispatch>
+</OperationalFlightPlan>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlightReport batchId="BATCH-20260514-001">
+  <Flight
+    flightId="FLT-1001"
+    flightNumber="AUR101"
+    originDate="2026-05-14"
+    origin="WAAA"
+    destination="WSSS" />
+  <WaypointSummary>
+    <HighestFlightLevel>360</HighestFlightLevel>
+    <PeakFuelOnBoardKg>8300</PeakFuelOnBoardKg>
+  </WaypointSummary>
+  <FuelNotes>
+    <ExtraFuelReason>Weather buffer</ExtraFuelReason>
+  </FuelNotes>
+</FlightReport>

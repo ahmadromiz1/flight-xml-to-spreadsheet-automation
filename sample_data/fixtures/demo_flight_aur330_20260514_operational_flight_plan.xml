@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OperationalFlightPlan batchId="BATCH-20260514-003">
+  <Flight
+    flightId="FLT-3030"
+    flightNumber="AUR330"
+    originDate="2026-05-14"
+    scheduledDepartureUtc="2026-05-14T09:10:00Z">
+    <Route origin="WIBB" destination="WIII" alternate="WICC" />
+  </Flight>
+  <Aircraft registration="REG-CN3" type="A321" />
+  <Dispatch>
+    <DispatcherCode>DSP-03</DispatcherCode>
+    <PlannedFlightLevel>360</PlannedFlightLevel>
+    <PlannedDistanceNm>780</PlannedDistanceNm>
+    <PlannedBlockFuelKg>7600</PlannedBlockFuelKg>
+    <PlannedTripFuelKg>4300</PlannedTripFuelKg>
+    <PlannedArrivalFuelKg>1900</PlannedArrivalFuelKg>
+  </Dispatch>
+</OperationalFlightPlan>

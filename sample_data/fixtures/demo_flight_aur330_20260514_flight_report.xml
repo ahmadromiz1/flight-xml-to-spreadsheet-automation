@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlightReport batchId="BATCH-20260514-003">
+  <Flight
+    flightId="FLT-3030"
+    flightNumber="AUR330"
+    originDate="2026-05-14"
+    origin="WIBB"
+    destination="WIII" />
+  <WaypointSummary>
+    <HighestFlightLevel>360</HighestFlightLevel>
+    <PeakFuelOnBoardKg>7620</PeakFuelOnBoardKg>
+  </WaypointSummary>
+  <FuelNotes>
+    <ExtraFuelReason>None</ExtraFuelReason>
+  </FuelNotes>
+</FlightReport>
