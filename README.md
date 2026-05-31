@@ -52,17 +52,19 @@ This demo keeps the engineering pattern intact while reducing the data surface f
 High-level flow:
 
 ```text
-XML Files
-   ↓
-Parser
-   ↓
-Validation Layer
-   ↓
-Merge Engine
-   ↓
-Spreadsheet Export
-   ↓
-Archive and Logs
+Flight XML Automation Workflow
+
+3 Operational XML Documents
+            ↓
+Data Extraction & Parsing
+            ↓
+Validation & Reconciliation
+            ↓
+ETL Processing & Mapping
+            ↓
+Excel Report Generation
+            ↓
+Operational Reporting
 ```
 
 Detailed architecture notes are available in [`docs/architecture.md`](docs/architecture.md).
